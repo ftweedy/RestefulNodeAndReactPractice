@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is a practice on using Node to create a restful backend.  While the UI is basic, it uses React to go through all CRUD operations.  
 
 ## Available Scripts
 
@@ -67,6 +66,3 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `yarn build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
-=======
-# RestefulNodeAndReactPractice
->>>>>>> 4a28011b9f5315d8236f0da48324442ecc970d3c
